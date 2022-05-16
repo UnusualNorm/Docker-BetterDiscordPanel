@@ -1,5 +1,5 @@
 # Docker-LocalToNet
- BetterDiscordPanel in a Docker container!
+ [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) in a Docker container!
 
 # Docker CLI:
 ### Download/Update the image:
