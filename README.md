@@ -9,7 +9,7 @@ docker pull unusualnorm/betterdiscordpanel
 
 ### Run the image
 ```
-docker run -it --rm --net=host unusualnorm/betterdiscordpanel PROTOCOL PORT
+docker run -d -it -p 80:80 unusualnorm/betterdiscordpanel
 ```
 
 # Docker Compose:
